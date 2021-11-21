@@ -9,7 +9,7 @@
 _____
 
 <p align="center">
-  <a href="https://github.com/DevComputaria/Forum/discussions"><img src="https://github.com/DevComputaria/Forum/blob/main/data/btn.jpg?raw=true" alt="DevComputaria" width="119" /></a>
+  <a href="https://github.com/SciFiUniverse/Forum/discussions"><img src="https://github.com/DevComputaria/Forum/blob/main/data/btn.jpg?raw=true" alt="DevComputaria" width="119" /></a>
 </p>
 
 _____
